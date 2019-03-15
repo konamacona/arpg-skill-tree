@@ -46,6 +46,8 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.0.0"
+    "@babel/polyfill": "^7.0.0",
+    "cytoscape": "^3.5.0",
+    "cytoscape-cola": "^2.3.0"
   }
 }
