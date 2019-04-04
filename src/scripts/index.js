@@ -51,13 +51,16 @@ function generateData() {
 
   const branches = {
     r: {
-      position: { x: 50, y: 0 }
+      position: { x: 50, y: 0 },
+      nodes: []
     },
     g: {
-      position: { x: -50, y: 0 }
+      position: { x: -50, y: 0 },
+      nodes: []
     },
     b: {
-      position: { x: 0, y: 75 }
+      position: { x: 0, y: 75 },
+      nodes: []
     }
   };
 

@@ -48,6 +48,8 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "cytoscape": "^3.5.0",
-    "cytoscape-cola": "^2.3.0"
+    "cytoscape-cola": "^2.3.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333"
   }
 }
